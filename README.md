@@ -1,2 +1,2 @@
 # GIS
-Kumpulan tugas GIS Kelompok 4 3-D
+Kumpulan tugas mata kuliah SIG Kelompok 4 3-D
