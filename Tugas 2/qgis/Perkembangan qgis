@@ -1,0 +1,5 @@
+\section{perkembangan qgis}
+Quantum GIS dikembangkan dengan bahasa pemrograman C++ dan bersifat multi platform, dapat dijalankan pada berbagai sistem operasi. 
+Saat ini, versi binary (installer) Quantum GIS tersedia untuk sistem operasi Microsoft Windows, Linux (berbagai varian distro), FreeBSD dan MacOS X. 
+Belakangan bahkan sudah mulai dicoba dijalankan di sistem operasi Android yang banyak digunakan di perangkat mobile (smartphone/tablet). 
+Saat ini versi stabil Quantum GIS adalah 1.8.0, dan sedang dalam tahapp engembangan untuk mencapai versi mayor 2.0.
